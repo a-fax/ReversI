@@ -1,0 +1,2 @@
+# ReversI
+reversi GAME
